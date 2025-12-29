@@ -1,2 +1,2 @@
 alert("uh-oh!");
-God Alone 1
+God Alone 2
