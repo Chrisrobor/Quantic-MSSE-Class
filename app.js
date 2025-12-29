@@ -1,2 +1,2 @@
 alert("uh-oh!");
-we dey try3
+God Alone 1
